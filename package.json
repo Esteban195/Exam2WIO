@@ -1,0 +1,30 @@
+{
+  "name": "exam2wdioestebanac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esteban195/Exam2WIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esteban195/Exam2WIO/issues"
+  },
+  "homepage": "https://github.com/Esteban195/Exam2WIO#readme",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^6.3.6",
+    "@wdio/cli": "^6.4.0",
+    "@wdio/dot-reporter": "^6.4.0",
+    "@wdio/local-runner": "^6.4.0",
+    "@wdio/mocha-framework": "^6.4.0",
+    "@wdio/spec-reporter": "^6.4.0",
+    "@wdio/sync": "^6.4.0",
+    "chromedriver": "^84.0.1",
+    "wdio-chromedriver-service": "^6.0.3"
+  }
+}
